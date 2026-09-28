@@ -9,4 +9,6 @@ This repo is intended to share my thought process and solution for the problem s
 
 - Also providing the .db, feel free to play around. :)
 
+# Database Overview
+
 <img title="Database" alt="fifty-ville.db" src="database.svg">

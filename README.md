@@ -6,3 +6,5 @@ This repo is intended to share my thought process and solution for the problem s
 - log.sql has SQL queries and comment to build the solution piece by piece rather than a single query. This problem statement was one of my favorites.
 
 - answer.txt has the actual answers to the finding who the culprit and accomplise is, along with flight record.
+
+- Also providing the .db, feel free to play around. :)

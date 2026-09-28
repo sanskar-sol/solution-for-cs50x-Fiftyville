@@ -8,3 +8,5 @@ This repo is intended to share my thought process and solution for the problem s
 - answer.txt has the actual answers to the finding who the culprit and accomplise is, along with flight record.
 
 - Also providing the .db, feel free to play around. :)
+
+<img title="Database" alt="fifty-ville.db" src="database.svg">
